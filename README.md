@@ -1,1 +1,1 @@
-This is a simple Todo list made using typescript. It is able to complete basic CRUD operations (Creating, Reading, Updating and Deleting). 
+This is a simple Todo list made using typescript. It is able to complete basic CRUD operations (Creating, Reading, Updating and Deleting). CSS is used for styling though the functionality was the main focus.
